@@ -1,8 +1,9 @@
 # -Blinkit-Power-BI-Dashboard-Project
-###📌 Project Overview
+## 📌 Project Overview
 This project presents an interactive Power BI dashboard developed using Blinkit (formerly Grofers) dataset to analyze sales performance, customer behavior, and product trends. It aims to provide key business intelligence insights that support strategic decision-making for an online grocery delivery platform.
+
 ---
-##🎯 Objective
+## 🎯 Objective
 The main goals of this project are to:
 
 Visualize key sales metrics (total revenue, orders, profit).
@@ -16,7 +17,7 @@ Identify patterns in order time, frequency, and delivery.
 Provide actionable insights for business optimization.
 
 ---
-###📁 Dataset
+## 📁 Dataset
 The dataset includes key fields such as:
 
 Order ID: Unique identifier for each order.
