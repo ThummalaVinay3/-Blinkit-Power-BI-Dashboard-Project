@@ -1,8 +1,8 @@
 # -Blinkit-Power-BI-Dashboard-Project
 ###📌 Project Overview
 This project presents an interactive Power BI dashboard developed using Blinkit (formerly Grofers) dataset to analyze sales performance, customer behavior, and product trends. It aims to provide key business intelligence insights that support strategic decision-making for an online grocery delivery platform.
-
-###🎯 Objective
+---
+##🎯 Objective
 The main goals of this project are to:
 
 Visualize key sales metrics (total revenue, orders, profit).
@@ -15,6 +15,7 @@ Identify patterns in order time, frequency, and delivery.
 
 Provide actionable insights for business optimization.
 
+---
 ###📁 Dataset
 The dataset includes key fields such as:
 
@@ -38,7 +39,8 @@ Quantity: Number of units ordered.
 
 Profit: Margin made per order.
 
-###🧹 Data Cleaning & Preparation
+---
+##🧹 Data Cleaning & Preparation
 Removed duplicate and null records.
 
 Converted Order Date to date format and extracted Month, Day, and Year.
@@ -53,7 +55,8 @@ Profit Margin
 
 Sales by Product/City
 
-###📈 Dashboard Features
+---
+##📈 Dashboard Features
 1. Key Performance Indicators (KPIs)
 Total Revenue
 
@@ -89,7 +92,8 @@ Orders by day of the week and month.
 
 Peak shopping hours heatmap.
 
-###💡 Key Findings
+---
+##💡 Key Findings
 Top Cities: Delhi, Mumbai, and Bangalore contribute the highest revenue.
 
 Top Categories: Fruits & Vegetables and Beverages are the most ordered.
@@ -107,7 +111,8 @@ Excel: For initial data cleaning and formatting.
 
 DAX: For calculated measures and KPIs.
 
-###📂 How to Use
+---
+##📂 How to Use
 Download the .pbix file:
 blinkit_power_bi_dashboard.pbix
 
