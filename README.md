@@ -1,8 +1,8 @@
 # -Blinkit-Power-BI-Dashboard-Project
-📌 Project Overview
+###📌 Project Overview
 This project presents an interactive Power BI dashboard developed using Blinkit (formerly Grofers) dataset to analyze sales performance, customer behavior, and product trends. It aims to provide key business intelligence insights that support strategic decision-making for an online grocery delivery platform.
 
-🎯 Objective
+###🎯 Objective
 The main goals of this project are to:
 
 Visualize key sales metrics (total revenue, orders, profit).
@@ -15,7 +15,7 @@ Identify patterns in order time, frequency, and delivery.
 
 Provide actionable insights for business optimization.
 
-📁 Dataset
+###📁 Dataset
 The dataset includes key fields such as:
 
 Order ID: Unique identifier for each order.
@@ -38,7 +38,7 @@ Quantity: Number of units ordered.
 
 Profit: Margin made per order.
 
-🧹 Data Cleaning & Preparation
+###🧹 Data Cleaning & Preparation
 Removed duplicate and null records.
 
 Converted Order Date to date format and extracted Month, Day, and Year.
@@ -53,7 +53,7 @@ Profit Margin
 
 Sales by Product/City
 
-📈 Dashboard Features
+###📈 Dashboard Features
 1. Key Performance Indicators (KPIs)
 Total Revenue
 
@@ -89,7 +89,7 @@ Orders by day of the week and month.
 
 Peak shopping hours heatmap.
 
-💡 Key Findings
+###💡 Key Findings
 Top Cities: Delhi, Mumbai, and Bangalore contribute the highest revenue.
 
 Top Categories: Fruits & Vegetables and Beverages are the most ordered.
@@ -100,14 +100,14 @@ Profit Margins: Some low-selling items have high profit margins.
 
 Delivery Trends: Average delivery time is under 45 minutes in top-performing cities.
 
-🛠️ Tools Used
+###🛠️ Tools Used
 Power BI: For data modeling and dashboard development.
 
 Excel: For initial data cleaning and formatting.
 
 DAX: For calculated measures and KPIs.
 
-📂 How to Use
+###📂 How to Use
 Download the .pbix file:
 blinkit_power_bi_dashboard.pbix
 
@@ -115,7 +115,7 @@ Open in Power BI Desktop (latest version).
 
 Refresh data (if needed) and explore the interactive visuals.
 
-🔍 Recommendations
+###🔍 Recommendations
 For Marketing:
 
 Focus promotions in high-profit, low-order areas to boost sales.
@@ -128,12 +128,12 @@ For Product Teams:
 
 Optimize inventory for top-selling items and evaluate underperforming ones.
 
-🚀 Future Enhancements
+###🚀 Future Enhancements
 Integrate customer review and feedback data.
 
 Add time-series forecasting for revenue and demand.
 
 Deploy dashboard to Power BI service for real-time collaboration.
-
-✅ Conclusion
+---
+###✅ Conclusion
 This dashboard empowers Blinkit’s business teams to monitor, analyze, and optimize sales and operational performance. With visual insights and data-backed strategies, this solution drives efficient decision-making and better customer satisfaction.
