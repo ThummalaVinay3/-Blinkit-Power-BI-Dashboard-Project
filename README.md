@@ -41,7 +41,7 @@ Quantity: Number of units ordered.
 Profit: Margin made per order.
 
 ---
-##🧹 Data Cleaning & Preparation
+## 🧹 Data Cleaning & Preparation
 Removed duplicate and null records.
 
 Converted Order Date to date format and extracted Month, Day, and Year.
@@ -57,7 +57,7 @@ Profit Margin
 Sales by Product/City
 
 ---
-##📈 Dashboard Features
+## 📈 Dashboard Features
 1. Key Performance Indicators (KPIs)
 Total Revenue
 
@@ -94,7 +94,7 @@ Orders by day of the week and month.
 Peak shopping hours heatmap.
 
 ---
-##💡 Key Findings
+## 💡 Key Findings
 Top Cities: Delhi, Mumbai, and Bangalore contribute the highest revenue.
 
 Top Categories: Fruits & Vegetables and Beverages are the most ordered.
@@ -113,7 +113,7 @@ Excel: For initial data cleaning and formatting.
 DAX: For calculated measures and KPIs.
 
 ---
-##📂 How to Use
+## 📂 How to Use
 Download the .pbix file:
 blinkit_power_bi_dashboard.pbix
 
@@ -134,12 +134,14 @@ For Product Teams:
 
 Optimize inventory for top-selling items and evaluate underperforming ones.
 
-###🚀 Future Enhancements
+---
+### 🚀 Future Enhancements
 Integrate customer review and feedback data.
 
 Add time-series forecasting for revenue and demand.
 
 Deploy dashboard to Power BI service for real-time collaboration.
+
 ---
-###✅ Conclusion
+### ✅ Conclusion
 This dashboard empowers Blinkit’s business teams to monitor, analyze, and optimize sales and operational performance. With visual insights and data-backed strategies, this solution drives efficient decision-making and better customer satisfaction.
